@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**code-with-umer1/code-with-umer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✦ NEXUS_UMER | Front-End Alchemist
+Crafting immersive digital experiences at the intersection of design and code.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+HTML5 / CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript
+
+React.js
+
+Tailwind CSS
+
+
+✨ Features
+Responsive design for all devices
+
+Smooth scroll navigation
+
+Particle animation background
+
+Contact form with Web3Forms integration
+
+Mobile-friendly navigation
+
+📱 Connect
+WhatsApp: +92 310 6569588
+
+📄 License
+© 2023 Umer — All rights reserved.
